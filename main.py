@@ -4,12 +4,15 @@ tim =Turtle()
 my_screen = Screen()
 my_colors =  ["red", "purple", "brown", "pink", "green"]
 tim.speed("fastest")
+
+
+#Square
 # for i in range(4):
 #     tim.fd(100)
 #     tim.left(90)
 
 
-# #dashes line
+# #dash line
 # for i in range (20):
 #     tim.forward(5)
 #     tim.up()
